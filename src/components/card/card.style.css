@@ -1,0 +1,41 @@
+.card {
+  margin: 0.8rem auto;
+  text-align: center;
+}
+
+.img {
+  width: 95%;
+  height: 300px;
+  border-top: 4px solid lightgrey;
+}
+
+.details {
+  width: 95%;
+  margin: 0 auto;
+  border: 1px solid grey;
+  padding: 0.1rem;
+}
+
+.name span,
+.likes span {
+  color: grey;
+  text-shadow: 1px 1px black;
+  letter-spacing: 2px;
+  text-transform: capitalize;
+}
+
+.name {
+  text-transform: capitalize;
+}
+
+.info-box {
+  background: lightgrey;
+  margin-top: 0.2rem;
+}
+
+.tag {
+  margin-left: 1rem;
+}
+
+
+

@@ -1,0 +1,8 @@
+.spinner-box {
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    margin: 2rem auto;
+}
+
+

@@ -1,0 +1,43 @@
+.search-box {
+  width: 60vw;
+  display: flex;
+  justify-content: center;
+  justify-items: center;
+  margin: 0 auto;
+}
+
+.form {
+  width: 60%;
+  text-align: center;
+}
+
+.form input {
+  width: 100%;
+  padding: 0.2rem;
+  font-size: 1.2rem;
+  border: none;
+  border-bottom: 1px solid lightgray;
+  transition: all 2s ease;
+  outline: 0;
+}
+
+.form input:hover {
+  border-bottom: 1px solid gray;
+}
+
+.btn {
+  margin: 1rem auto;
+  padding: 0.3rem 0.3rem;
+  font-size: 1.1rem;
+  letter-spacing: 2px;
+  border: none;
+  border-top: 1px solid grey;
+  border-bottom: 1px solid grey;
+  transition: all 1s ease-in;
+  cursor: pointer;
+  outline: 0;
+}
+
+.btn:hover {
+  transform: scaleX(1.1);
+}
